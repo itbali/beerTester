@@ -25,6 +25,7 @@
       </div>
       <br>
       <n-button strong secondary round @click="$emit('reloadBeer')">Reload</n-button>
+      <br>
     </div>
   </div>
 </template>

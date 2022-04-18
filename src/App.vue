@@ -64,6 +64,10 @@ export default {
     flex-direction: column;
     margin:0 20vw ;
     }
+
+  hr{
+    display: none
+    }
   }
 
 #app {
